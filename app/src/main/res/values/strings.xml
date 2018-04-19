@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovieTorrent</string>
+
+    <!-- This area is the api for yts -->
+    <string name="list_latest_upload">https://yts.am/api/v2/list_movies.json&amp;limit=5&amp;sort_by=date_added</string>
+</resources>
